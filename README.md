@@ -1,0 +1,2 @@
+# Scala-Practicals
+Scala praticals
